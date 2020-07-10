@@ -11,4 +11,4 @@ Hi there! I'm Corbin, a full-stack developer, and a wannabe DevRel! I am passion
 ### 📧 How To Reach Me
 - 🐣 [Twitter](https://twitter.com/crutchcorn)
 - 💜 [Discord](https://discord.com/invite/FMcvc6T)
-- 💼 [LinkedIn](https://github.com/unicorn-utterances)
+- 💼 [LinkedIn](https://www.linkedin.com/in/corbincrutchley/)

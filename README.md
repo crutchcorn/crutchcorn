@@ -1,4 +1,4 @@
-Hi there! I'm Corbin, a full-stack developer, and a wannabe DevRel! I am passionate about open-source and the developer experience. I hope to not only bring value in a technical sense but help educate and encourage other developers as well! Always open to chat about my projects, general coding questions, or anything in between. Drop a line and say "hello"!
+Hi there! I'm Corbin, a full-stack developer, and a DevRel for CoderPad! I am passionate about open-source and the developer experience. I hope to not only bring value in a technical sense but help educate and encourage other developers as well! Always open to chat about my projects, general coding questions, or anything in between. Drop a line and say "hello"!
 
 ### 📚 Content I've Made
 

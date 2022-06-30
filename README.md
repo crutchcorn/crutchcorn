@@ -1,8 +1,15 @@
 ![Hi, I'm Corbin Crutchley, developer and teacher](./header.png)
 
-Hi there! I'm Corbin: DevRel for [CoderPad](https://coderpad.io), Founder of [OceanBit](https://oceanbit.dev), developer, and teacher. This is my profile page to outline some of the things I'm working on today.
-
-
+Hi there! I'm Corbin: DevRel for [CoderPad](https://coderpad.io), Founder of [OceanBit](https://oceanbit.dev), developer, and teacher. This is my profile page to outline some of the things I'm working on.
+<br/>
+<p align="center">
+    🐣 
+    <a href="https://twitter.com/crutchcorn">Twitter</a>
+    💜 
+    <a href="https://discord.com/invite/FMcvc6T">Discord</a>
+    💼
+    <a href="https://www.linkedin.com/in/corbincrutchley/">LinkedIn</a>
+</p>
 
 <h1><span aria-hidden="true">📚</span> Content</h1>
 
@@ -16,7 +23,7 @@ I've written 100K+ words on a wide range of programming topics. Among them are:
 
 
 - [45+ articles for the blog, Unicorn Utterances](https://crutchcorn.dev)
-- [What is Aggregation in MongoDB?What is Aggregation in MongoDB?](https://www.mongodb.com/basics/aggregation)
+- [What is Aggregation in MongoDB?](https://www.mongodb.com/basics/aggregation)
 - [Add SMS Verification to React Native App Using Node.js and Express](https://developer.vonage.com/blog/2020/05/26/add-sms-verification-in-a-react-native-app-using-node-js-and-express-dr)
 - [Integrating Shoelace with NextJS](https://next.shoelace.style/tutorials/integrating-with-nextjs)
 - [HERE Map's React Tutorial](https://developer.here.com/tutorials/react)
@@ -30,11 +37,11 @@ I'm also writing a book trilogy called "The Framework Field Guide", which will t
 
 <a href="https://twitch.tv/crutchcorn" style="display:flex;"><img alt="" width="256" height="256"  align="left" src="twitch.png"/></a>
 
-On top of a [small foray into TikTok](https://www.tiktok.com/@crutchcorn/video/7083240403318721838), [I'm a Twitch affiliate with over 1,000 followers](https://twitch.tv/crutchcorn). I stream regularly, often 6-8 hours a week, every week.
+You can find me often on [Twitch](https://twitch.tv/crutchcorn) where I'm an affiliate. 6-8 hours weekly. 
 
-I do my best to engage with the community as much as possible, and have continue to host [charity Livestream events](https://theframedrops.com/), where we've even previously garnered $3k for charity!
+I do my best to engage with my community as much as possible. Even hosting [Livestream events](https://theframedrops.com/), where we've earned $3k for charity! `Thank You, Supporters!`
 
-I also host a [Discord community for others on Twitch to be able to talk to me](https://discord.gg/FMcvc6T) and do pair-progamming in office hours in order to help solve some of their problems. 
+I have cultivated an amazing Discord community. If I'm not streaming you can often find me [here](https://discord.gg/FMcvc6T). Hosting pair-programming office hours with my community.
 
 <br/>
 

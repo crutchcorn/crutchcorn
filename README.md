@@ -57,14 +57,14 @@ I've spoken at various conferences and meetups about a wide range of programming
 
 I've done a bit  of podcasting to talk about web development:
 
-- [TPDP Episode #29: Asynchronous JavaScript Development](https://www.thepolyglotdeveloper.com/2019/07/tpdp-e29-asynchronous-javascript-development/)
-- [TPDP E32: Getting Familiar with TypeScript for Development](https://www.thepolyglotdeveloper.com/2019/10/tpdp-e32-getting-familiar-typescript-development/)
+- [Web Rush EP201: Web Framework Field Guide with Corbin Crutchley](https://webrush.io/episodes/episode-201-web-framework-field-guide-with-corbin-crutchley)
+- [Compressed.fm EP80: Learning Frontend Frameworks Better with Corbin Crutchley](https://www.compressed.fm/episode/80)
+- [20minJS EP25: Learning UI frameworks with Corbin Crutchley](https://podcast.20minjs.com/1952066/11179009-episode-25-learning-ui-frameworks-with-corbin-crutchley)
 - [TPDP E37: Writing Tests in a Development Project](https://www.thepolyglotdeveloper.com/2020/06/tpdp-e37-writing-tests-development-project/)
-- More to be announced soon...
+- [TPDP E32: Getting Familiar with TypeScript for Development](https://www.thepolyglotdeveloper.com/2019/10/tpdp-e32-getting-familiar-typescript-development/)
+- [TPDP EP29: Asynchronous JavaScript Development](https://www.thepolyglotdeveloper.com/2019/07/tpdp-e29-asynchronous-javascript-development/)
 
 > I'd love to be in **your** podcast! Please [reach out to me on Twitter](https://twitter.com) if you think I'd be a good guest on your show!
-
-
 
 
 <h1><span aria-hidden="true">👨‍💻</span> Code</h1>

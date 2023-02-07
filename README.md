@@ -75,8 +75,8 @@ I've done a bit  of podcasting to talk about web development:
 On top of contributing to tons of open-source projects, I also help maintain:
 
 - 🦄 [Unicorn Utterances](https://github.com/unicorn-utterances/)
+- 🖍️ [Jimp](https://github.com/jimp-dev/)
 - 💧 [PlopJS](https://github.com/plopjs/)
-- 📘 [SolidJS Docs](https://github.com/solidjs/solid-docs-next/)
 - 🎨 [Node Vibrant](https://github.com/Vibrant-Colors/)
 - 🦈 [GitShark](https://github.com/oceanbit/gitshark)
 - 🐨 [CLI Testing Library](https://github.com/crutchcorn/cli-testing-library)

@@ -15,8 +15,8 @@ I've created a wide array of forms of content. I'm passionate about communicatio
 I've written 100K+ words on a wide range of programming topics. Among them are:
 
 
-- [45+ articles for the blog, Unicorn Utterances](https://crutchcorn.dev)
-- [What is Aggregation in MongoDB?What is Aggregation in MongoDB?](https://www.mongodb.com/basics/aggregation)
+- [50+ articles for the blog, Unicorn Utterances](https://crutchcorn.dev)
+- [What is Aggregation in MongoDB?](https://www.mongodb.com/basics/aggregation)
 - [Add SMS Verification to React Native App Using Node.js and Express](https://developer.vonage.com/blog/2020/05/26/add-sms-verification-in-a-react-native-app-using-node-js-and-express-dr)
 - [Integrating Shoelace with NextJS](https://next.shoelace.style/tutorials/integrating-with-nextjs)
 - [HERE Map's React Tutorial](https://developer.here.com/tutorials/react)

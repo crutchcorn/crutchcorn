@@ -79,41 +79,12 @@ On top of contributing to tons of open-source projects, I also help maintain:
 - 💧 [PlopJS](https://github.com/plopjs/)
 - 🎨 [Node Vibrant](https://github.com/Vibrant-Colors/)
 - 📝 [HouseForm](https://github.com/houseform/)
-- 🦈 [GitShark](https://github.com/oceanbit/gitshark)
 - 🐨 [CLI Testing Library](https://github.com/crutchcorn/cli-testing-library)
 - 🤳 [React Native Responsive UI](https://github.com/oceanbit/react-native-responsive-ui)
 - 🍫 [React Native Immersive Bars](https://github.com/oceanbit/react-native-immersive-bars)
 - 🔷 [TS Util Helpers](https://github.com/crutchcorn/ts-util-helpers)
 
 <h2><span aria-hidden="true">🤔</span> Projects</h2>
-
-<h3><span aria-hidden="true">🐳</span> StreamPods</h3>
-
-StreamPods is my home-grown code-powered livestreaming overlay system. It responds to Twitch notifications (like donations, redeems, and more) as well as chat. It also provides an amazing developer experience to build your own customizations and themes on top of the pre-built elements. Total customization at your hands.
-
-Here's what my overlay looks like:
-
-![A highlighted message showing up in overlay with chat](https://cdn.crutchcorn.com/github/highlight-msg.gif)
-
-> Remember, all of this is completely custom-written code powering the show. No OBS in this video
-
-Here's a Twitter thread of just some of what you can do with StreamPods:
-
-https://twitter.com/crutchcorn/status/1424829356401037319
-
-> StreamPods is also our test-bed for a new SSR framework that I will be turning into a dedicated package fairly soon. So you'll be able to see the source code before it goes live! Curious to hear more? [DM me on Twitter](https://twitter.com/crutchcorn)
-
-<h3><span aria-hidden="true">🏖️</span> Seaside</h3>
-
-Seaside is OceanBit's internal UI component system for React and React Native. Fully accessible, highly customizable, stable, beautiful.
-
-Here's a tiny sample:
-
-![Toggle switches showing two states with some documentation in a Figma file](https://cdn.crutchcorn.com/github/seaside-sample.png)
-
-Designed by [Eduardo Pratti](https://twitter.com/edpratti/) and [Kevin Aguilar](https://dribbble.com/kevttob), accessibility help from [Evelyn Hathaway](https://github.com/evelynhathaway/) and others, and dev-first API patterns.
-
-
 <h1><span aria-hidden="true">🧑‍🤝‍🧑</span> Socials</h1>
 
 <img alt="" width="128" height="128"  align="right" src="links_icon.png"/>

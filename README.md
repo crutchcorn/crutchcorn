@@ -23,7 +23,7 @@ I've written 100K+ words on a wide range of programming topics. Among them are:
 
 I'm also writing a book trilogy called "The Framework Field Guide", which will teach React, Angular, and Vue all in one book! Click on the image below to learn more:
 
-[!["The Framework Field Guide", the best guide to help you learn advanced Angular, React, and Vue from scratch. Available soon, for free! Join the waitlist here](./frarnework_field_guide.png)](https://framework.guide)
+[!["The Framework Field Guide", the best guide to help you learn advanced Angular, React, and Vue from scratch. Available soon, for free! Join the waitlist here](./framework_field_guide.png)](https://framework.guide)
 
 
 <h2><span aria-hidden="true">📷</span> Video</h2>

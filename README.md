@@ -1,6 +1,6 @@
 ![Hi, I'm Corbin Crutchley, developer and teacher](./header.png)
 
-Hi there! I'm Corbin: A Senior Frontend Developer, Founder of [OceanBit](https://oceanbit.dev), developer, and teacher. This is my profile page to outline some of the things I'm working on today.
+Hi there! I'm Corbin: A Principal Frontend Developer, [GitHub Star](https://stars.github.com/profiles/crutchcorn/), developer, and teacher. This is my profile page to outline some of the things I'm working on today.
 
 
 

@@ -43,7 +43,7 @@ I also host a [Discord community for others on Twitch to be able to talk to me](
 I've spoken at various conferences and meetups about a wide range of programming topics. Among them include:
 
 - ["How Does Git Work Under The Hood" at GitKon](https://www.gitkraken.com/gitkon/how-does-git-work-under-the-hood)
-- ["Using ColdFusion APIs in Expo Mobile AppsUsing ColdFusion APIs in Expo Mobile Apps" at Adobe ColdFusion Developer Week 2021](https://web.archive.org/web/20210621181857/https://adobe.vconfex.com/site/adobe-coldfusion-developer-week/977)
+- ["Using ColdFusion APIs in Expo Mobile Apps" at Adobe ColdFusion Developer Week 2021](https://web.archive.org/web/20210621181857/https://adobe.vconfex.com/site/adobe-coldfusion-developer-week/977)
 - ["Smooth Sailing with Angular" at SacJS](https://www.meetup.com/The-Sacramento-Javascript-Meetup/events/247295930/)
 - ["Reeling You In On React Hooks" at SacJS](https://github.com/sacjs/website/issues/130)
 - ["Using Slack API for App Integrations" at Slack Sacramento Meetup](https://slackcommunity.com/events/details/slack-sacramento-presents-building-communities-and-slack-api-integrations/)

@@ -85,7 +85,6 @@ On top of contributing to tons of open-source projects, I also help maintain:
 - 🍫 [React Native Immersive Bars](https://github.com/oceanbit/react-native-immersive-bars)
 - 🔷 [TS Util Helpers](https://github.com/crutchcorn/ts-util-helpers)
 
-<h2><span aria-hidden="true">🤔</span> Projects</h2>
 <h1><span aria-hidden="true">🧑‍🤝‍🧑</span> Socials</h1>
 
 <img alt="" width="128" height="128"  align="right" src="links_icon.png"/>

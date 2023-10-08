@@ -32,7 +32,7 @@ I'm also writing a book trilogy called "The Framework Field Guide", which will t
 
 On top of a [small foray into TikTok](https://www.tiktok.com/@crutchcorn/video/7083240403318721838), [I'm a Twitch affiliate with over 1,500 followers](https://twitch.tv/crutchcorn). I stream regularly, often 6-8 hours a week, every week.
 
-I do my best to engage with the community as much as possible, and have continue to host [charity Livestream events](https://theframedrops.com/), where we've even previously garnered $3k for charity!
+I do my best to engage with the community as much as possible, and have continued to host [charity Livestream events](https://theframedrops.com/), where we've even previously garnered $3k for charity!
 
 I also host a [Discord community for others on Twitch to be able to talk to me](https://discord.gg/FMcvc6T) and do pair-progamming in office hours in order to help solve some of their problems. 
 

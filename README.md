@@ -1,6 +1,6 @@
 ![Hi, I'm Corbin Crutchley, developer and teacher](./header.png)
 
-Hi there! I'm Corbin: A Principal Frontend Developer, [GitHub Star](https://stars.github.com/profiles/crutchcorn/), developer, and teacher. This is my profile page to outline some of the things I'm working on today.
+Hi there! I'm Corbin: A Staff Frontend Developer, [GitHub Star](https://stars.github.com/profiles/crutchcorn/), developer, and teacher. This is my profile page to outline some of the things I'm working on today.
 
 
 
@@ -57,6 +57,7 @@ I've spoken at various conferences and meetups about a wide range of programming
 
 I've done a bit  of podcasting to talk about web development:
 
+- [The Angular Plus Show S3 E7: Your Frameworks Field Guide with Corbin Crutchley](https://open.spotify.com/episode/6bjuGf0wSDuZ9MopP7SpzJ)
 - [devtools.fm EP65: Framework Field Guide (learn React, Angular, Vue at the same time)](https://www.devtools.fm/episode/65)
 - [Web Rush EP215: How I Doubled by Lighthouse Performance with Astro.js with Corbin Crutchley](https://webrush.io/episodes/episode-215-how-i-doubled-by-lighthouse-performance-with-astrojs-with-corbin-crutchley)
 - [Web Rush EP201: Web Framework Field Guide with Corbin Crutchley](https://webrush.io/episodes/episode-201-web-framework-field-guide-with-corbin-crutchley)

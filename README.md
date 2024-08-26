@@ -57,6 +57,8 @@ I've spoken at various conferences and meetups about a wide range of programming
 
 I've done a bit  of podcasting to talk about web development:
 
+- [CodingCat Podcast: WebDev Fundamentals | React, Angular, and Vue](https://codingcat.dev/podcast/webdev-fundamentals-or-react-angular-and-vue)
+- [Syntax.fm EP752: React vs Vue vs Angular with Corbin Crutchley](https://syntax.fm/show/752/react-vs-vue-vs-angular-with-corbin-crutchley)
 - [The Angular Plus Show S3 E7: Your Frameworks Field Guide with Corbin Crutchley](https://open.spotify.com/episode/6bjuGf0wSDuZ9MopP7SpzJ)
 - [devtools.fm EP65: Framework Field Guide (learn React, Angular, Vue at the same time)](https://www.devtools.fm/episode/65)
 - [Web Rush EP215: How I Doubled by Lighthouse Performance with Astro.js with Corbin Crutchley](https://webrush.io/episodes/episode-215-how-i-doubled-by-lighthouse-performance-with-astrojs-with-corbin-crutchley)

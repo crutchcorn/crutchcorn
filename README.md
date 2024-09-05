@@ -42,7 +42,7 @@ I also host a [Discord community for others on Twitch to be able to talk to me](
 
 I've spoken at various conferences about a wide range of programming topics. Among them include:
 
-- ["React 19 for the Rest of Us" at React Rally 2024](https://www.youtube.com/live/DGG6xpllTiE?t=8035s)
+- ["React 19 for the Rest of Us" at React Rally 2024](https://www.youtube.com/watch?v=zvSvBMljkZ8)
 - ["Learn Angular Signals By Writing Your Own" at ngConf 2024](https://www.youtube.com/watch?v=cJ7AuQUBmA4)
 - ["How Does Git Work Under The Hood" at GitKon](https://www.gitkraken.com/gitkon/how-does-git-work-under-the-hood)
 - ["Using ColdFusion APIs in Expo Mobile Apps" at Adobe ColdFusion Developer Week 2021](https://web.archive.org/web/20210621181857/https://adobe.vconfex.com/site/adobe-coldfusion-developer-week/977)
@@ -89,6 +89,8 @@ On top of contributing to tons of open-source projects, I also help maintain:
 - 📝 [TanStack Form](https://tanstack.com/form)
 - 🏪 [TanStack Store](https://tanstack.com/store)
 - 🔨 [TanStack Config](https://tanstack.com/config)
+- ⚛️ [Redux Angular](https://github.com/reduxjs/angular-redux)
+- ⚛️ [Redux Vue](https://github.com/reduxjs/vue-redux)
 - 🎨 [Node Vibrant](https://github.com/Vibrant-Colors/)
 - 🐨 [CLI Testing Library](https://github.com/crutchcorn/cli-testing-library)
 - 🤳 [React Native Responsive UI](https://github.com/oceanbit/react-native-responsive-ui)

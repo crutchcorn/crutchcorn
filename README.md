@@ -83,7 +83,7 @@ I've done a bit  of podcasting to talk about web development:
 
 On top of contributing to tons of open-source projects, I also help maintain:
 
-- 🦄 [Unicorn Utterances](https://github.com/unicorn-utterances/)
+- 🦄 [Playful Programming](https://github.com/playfulprogramming/)
 - 🖍️ [Jimp](https://github.com/jimp-dev/)
 - 💧 [PlopJS](https://github.com/plopjs/)
 - 📝 [TanStack Form](https://tanstack.com/form)

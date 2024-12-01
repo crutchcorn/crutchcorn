@@ -1,6 +1,6 @@
 ![Hi, I'm Corbin Crutchley, developer and teacher](./header.png)
 
-Hi there! I'm Corbin: A Staff Frontend Developer, [GitHub Star](https://stars.github.com/profiles/crutchcorn/), developer, and teacher. This is my profile page to outline some of the things I'm working on today.
+Hi there! I'm Corbin: A Staff Frontend Developer, [GitHub Star](https://stars.github.com/profiles/crutchcorn/), [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/0ab92fa3-8847-4304-8104-0cdfc5b79ed8) developer, and teacher. This is my profile page to outline some of the things I'm working on today.
 
 
 
@@ -12,14 +12,16 @@ I've created a wide array of forms of content. I'm passionate about communicatio
 
 <a href="https://unicorn-utterances.com"><img alt="" width="128" height="128"  align="right" src="uu_logo.png"/></a>
 
-I've written 100K+ words on a wide range of programming topics. Among them are:
+I've written 300K+ words on a wide range of programming topics. Among them are:
 
-
-- [50+ articles for the blog, Unicorn Utterances](https://crutchcorn.dev)
+- [90+ articles for the blog, Unicorn Utterances](https://crutchcorn.dev)
 - [What is Aggregation in MongoDB?](https://www.mongodb.com/basics/aggregation)
-- [Add SMS Verification to React Native App Using Node.js and Express](https://developer.vonage.com/blog/2020/05/26/add-sms-verification-in-a-react-native-app-using-node-js-and-express-dr)
+- [Add SMS Verification to React Native App Using Node.js and Express](https://developer.vonage.com/en/blog/add-sms-verification-in-a-react-native-app-using-node-js-and-express-dr)
 - [Integrating Shoelace with NextJS](https://next.shoelace.style/tutorials/integrating-with-nextjs)
-- [HERE Map's React Tutorial](https://developer.here.com/tutorials/react)
+- [Astro](https://astro.build)'s [Next.js](https://docs.astro.build/en/guides/migrate-to-astro/from-nextjs/) and [Nuxt.js](https://docs.astro.build/en/guides/migrate-to-astro/from-nuxtjs/) migration guides
+- [Various pages for Replay.io's docs and structure](https://github.com/replayio/docs/pulls?q=is%3Apr+author%3Acrutchcorn+is%3Aclosed)
+- [Much of Clerk's docs](https://github.com/clerk/clerk-docs/pulls?q=is%3Apr+author%3Acrutchcorn+is%3Aclosed)
+- [HERE Map's old React Tutorial]([https://developer.here.com/tutorials/react](https://web.archive.org/web/20230331034407/https://www.developer.here.com/tutorials/react/))
 
 I'm also writing a book trilogy called "The Framework Field Guide", which will teach React, Angular, and Vue all in one book! Click on the image below to learn more:
 
@@ -30,7 +32,7 @@ I'm also writing a book trilogy called "The Framework Field Guide", which will t
 
 <a href="https://twitch.tv/crutchcorn" style="display:flex;"><img alt="" width="256" height="256"  align="left" src="twitch.png"/></a>
 
-On top of a [small foray into TikTok](https://www.tiktok.com/@crutchcorn/video/7083240403318721838), [I'm a Twitch affiliate with over 1,500 followers](https://twitch.tv/crutchcorn). I stream regularly, often 6-8 hours a week, every week.
+On top of a [small foray into TikTok](https://www.tiktok.com/@crutchcorn/video/7083240403318721838), [I'm a Twitch affiliate with over 2,000 followers](https://twitch.tv/crutchcorn).
 
 I do my best to engage with the community as much as possible, and have continued to host [charity Livestream events](https://theframedrops.com/), where we've even previously garnered $3k for charity!
 
@@ -62,6 +64,7 @@ I've also spoken at more than a dozen smaller meetups. Some of the earliest meet
 
 I've done a bit  of podcasting to talk about web development:
 
+- [Corbin Crutchley talks about working with teams and his career in general | Software is a Team Sport](https://www.youtube.com/watch?si=kfOPqmOQYX63KbBj&v=lQg1Tdzmizo&feature=youtu.be)
 - [CodingCat Podcast: WebDev Fundamentals | React, Angular, and Vue](https://codingcat.dev/podcast/webdev-fundamentals-or-react-angular-and-vue)
 - [Syntax.fm EP752: React vs Vue vs Angular with Corbin Crutchley](https://syntax.fm/show/752/react-vs-vue-vs-angular-with-corbin-crutchley)
 - [The Angular Plus Show S3 E7: Your Frameworks Field Guide with Corbin Crutchley](https://open.spotify.com/episode/6bjuGf0wSDuZ9MopP7SpzJ)

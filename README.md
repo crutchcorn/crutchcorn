@@ -23,9 +23,11 @@ I've written 300K+ words on a wide range of programming topics. Among them are:
 - [Much of Clerk's docs](https://github.com/clerk/clerk-docs/pulls?q=is%3Apr+author%3Acrutchcorn+is%3Aclosed)
 - [HERE Map's old React Tutorial]([https://developer.here.com/tutorials/react](https://web.archive.org/web/20230331034407/https://www.developer.here.com/tutorials/react/))
 
-I'm also writing a book trilogy called "The Framework Field Guide", which will teach React, Angular, and Vue all in one book! Click on the image below to learn more:
+I'm also writing a book trilogy called "The Framework Field Guide", which teaches React, Angular, and Vue all at once! The first book is available now.
 
-[!["The Framework Field Guide", the best guide to help you learn advanced Angular, React, and Vue from scratch. Available soon, for free! Join the waitlist here](./framework_field_guide.png)](https://framework.guide)
+Click on the image below to learn more:
+
+[!["The Framework Field Guide", A free and practical way to learn Angular, React & Vue all at once](./framework_field_guide.png)](https://framework.guide)
 
 
 <h2><span aria-hidden="true">📷</span> Video</h2>

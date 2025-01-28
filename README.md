@@ -10,18 +10,18 @@ I've created a wide array of forms of content. I'm passionate about communicatio
 
 <h2><span aria-hidden="true">✍️</span> Writing</h2>
 
-<a href="https://unicorn-utterances.com"><img alt="" width="128" height="128"  align="right" src="uu_logo.png"/></a>
+<a href="https://playfulprogramming.com"><img alt="" width="128" height="128"  align="right" src="uu_logo.png"/></a>
 
 I've written 300K+ words on a wide range of programming topics. Among them are:
 
-- [90+ articles for the blog, Unicorn Utterances](https://crutchcorn.dev)
+- [100+ articles for the blog, Playful Programming](https://crutchcorn.dev)
 - [What is Aggregation in MongoDB?](https://www.mongodb.com/basics/aggregation)
 - [Add SMS Verification to React Native App Using Node.js and Express](https://developer.vonage.com/en/blog/add-sms-verification-in-a-react-native-app-using-node-js-and-express-dr)
 - [Integrating Shoelace with NextJS](https://next.shoelace.style/tutorials/integrating-with-nextjs)
 - [Astro](https://astro.build)'s [Next.js](https://docs.astro.build/en/guides/migrate-to-astro/from-nextjs/) and [Nuxt.js](https://docs.astro.build/en/guides/migrate-to-astro/from-nuxtjs/) migration guides
 - [Various pages for Replay.io's docs and structure](https://github.com/replayio/docs/pulls?q=is%3Apr+author%3Acrutchcorn+is%3Aclosed)
 - [Much of Clerk's docs](https://github.com/clerk/clerk-docs/pulls?q=is%3Apr+author%3Acrutchcorn+is%3Aclosed)
-- [HERE Map's old React Tutorial]([https://developer.here.com/tutorials/react](https://web.archive.org/web/20230331034407/https://www.developer.here.com/tutorials/react/))
+- [HERE Map's old React Tutorial](https://web.archive.org/web/20230331034407/https://www.developer.here.com/tutorials/react/)
 
 I'm also writing a book trilogy called "The Framework Field Guide", which teaches React, Angular, and Vue all at once! The first book is available now.
 
@@ -66,6 +66,7 @@ I've also spoken at more than a dozen smaller meetups. Some of the earliest meet
 
 I've done a bit  of podcasting to talk about web development:
 
+- [ConTejas Podcast: How UI frameworks work in detail, thriving with mental health](https://www.youtube.com/watch?v=NziUg4DWWdE)
 - [Corbin Crutchley talks about working with teams and his career in general | Software is a Team Sport](https://www.youtube.com/watch?si=kfOPqmOQYX63KbBj&v=lQg1Tdzmizo&feature=youtu.be)
 - [CodingCat Podcast: WebDev Fundamentals | React, Angular, and Vue](https://codingcat.dev/podcast/webdev-fundamentals-or-react-angular-and-vue)
 - [Syntax.fm EP752: React vs Vue vs Angular with Corbin Crutchley](https://syntax.fm/show/752/react-vs-vue-vs-angular-with-corbin-crutchley)
@@ -106,9 +107,9 @@ On top of contributing to tons of open-source projects, I also help maintain:
 
 <img alt="" width="128" height="128"  align="right" src="links_icon.png"/>
 
-- 🐣 [Twitter](https://twitter.com/crutchcorn)
+- 🔵 [BlueSky](https://bsky.app/profile/crutchcorn.dev)
 - 💜 [Discord](https://discord.com/invite/FMcvc6T)
 - 💼 [LinkedIn](https://www.linkedin.com/in/corbincrutchley/)
+- 🐣 [Twitter](https://twitter.com/crutchcorn)
 - 🖼️ [Instagram](https://www.instagram.com/crutchcorn/)
 - 🧵 [Threads](https://www.threads.net/@crutchcorn)
-- 🔵 [BlueSky](https://bsky.app/profile/crutchcorn.dev)

@@ -1,8 +1,6 @@
 ![Hi, I'm Corbin Crutchley, developer and teacher](./header.png)
 
-Hi there! I'm Corbin: A Staff Frontend Developer, [GitHub Star](https://stars.github.com/profiles/crutchcorn/), [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/0ab92fa3-8847-4304-8104-0cdfc5b79ed8) developer, and teacher. This is my profile page to outline some of the things I'm working on today.
-
-
+Hi there! I'm Corbin: A VP of Software Engineering, [GitHub Star](https://stars.github.com/profiles/crutchcorn/), [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/0ab92fa3-8847-4304-8104-0cdfc5b79ed8) developer, and teacher. This is my profile page to outline some of the things I'm working on today.
 
 <h1><span aria-hidden="true">📚</span> Content</h1>
 

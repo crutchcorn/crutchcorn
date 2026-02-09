@@ -64,6 +64,7 @@ I've also spoken at more than a dozen smaller meetups. Some of the earliest meet
 
 I've done a bit  of podcasting to talk about web development:
 
+- [CodeTV's Web Dev Challenge S2.E13](https://www.youtube.com/watch?v=qYx8NX49OS8)
 - [ConTejas Podcast: How UI frameworks work in detail, thriving with mental health](https://www.youtube.com/watch?v=NziUg4DWWdE)
 - [Corbin Crutchley talks about working with teams and his career in general | Software is a Team Sport](https://www.youtube.com/watch?si=kfOPqmOQYX63KbBj&v=lQg1Tdzmizo&feature=youtu.be)
 - [CodingCat Podcast: WebDev Fundamentals | React, Angular, and Vue](https://codingcat.dev/podcast/webdev-fundamentals-or-react-angular-and-vue)

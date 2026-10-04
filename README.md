@@ -44,6 +44,7 @@ I also host a [Discord community for others on Twitch to be able to talk to me](
 
 I've spoken at various conferences about a wide range of programming topics. Among them include:
 
+- ["Modernizing ColdFusion Frontends: Time to Unwind" at CFSummit 2026](https://web.archive.org/web/20261004081523/https://cfsummit.adobeevents.com/agenda/)
 - ["React 19 for the Rest of Us" at React Rally 2024](https://www.youtube.com/watch?v=zvSvBMljkZ8)
 - ["Learn Angular Signals By Writing Your Own" at ngConf 2024](https://www.youtube.com/watch?v=cJ7AuQUBmA4)
 - ["How Does Git Work Under The Hood" at GitKon](https://www.gitkraken.com/gitkon/how-does-git-work-under-the-hood)
@@ -64,6 +65,7 @@ I've also spoken at more than a dozen smaller meetups. Some of the earliest meet
 
 I've done a bit  of podcasting to talk about web development:
 
+- [Open Source at Scale with Corbin Crutchley](https://www.youtube.com/watch?v=y4sMQeqmdVM)
 - [CodeTV's Web Dev Challenge S2.E13](https://www.youtube.com/watch?v=qYx8NX49OS8)
 - [ConTejas Podcast: How UI frameworks work in detail, thriving with mental health](https://www.youtube.com/watch?v=NziUg4DWWdE)
 - [Corbin Crutchley talks about working with teams and his career in general | Software is a Team Sport](https://www.youtube.com/watch?si=kfOPqmOQYX63KbBj&v=lQg1Tdzmizo&feature=youtu.be)

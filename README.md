@@ -65,7 +65,8 @@ I've also spoken at more than a dozen smaller meetups. Some of the earliest meet
 
 I've done a bit  of podcasting to talk about web development:
 
-- [Open Source at Scale with Corbin Crutchley](https://www.youtube.com/watch?v=y4sMQeqmdVM)
+- [Señors at Scale: Open Source at Scale with Corbin Crutchley](https://www.youtube.com/watch?v=y4sMQeqmdVM)
+- [Modern Web Podcast: What Makes TanStack Form Different from Other Form State Managers?](https://www.iheart.com/podcast/256-modern-web-31139182/episode/what-makes-tanstack-form-different-from-other-form-state-managers-272705421)
 - [CodeTV's Web Dev Challenge S2.E13](https://www.youtube.com/watch?v=qYx8NX49OS8)
 - [ConTejas Podcast: How UI frameworks work in detail, thriving with mental health](https://www.youtube.com/watch?v=NziUg4DWWdE)
 - [Corbin Crutchley talks about working with teams and his career in general | Software is a Team Sport](https://www.youtube.com/watch?si=kfOPqmOQYX63KbBj&v=lQg1Tdzmizo&feature=youtu.be)
